@@ -1,0 +1,6 @@
+*.class
+*.bat
+.settings/
+.project
+.classpath
+bin/
